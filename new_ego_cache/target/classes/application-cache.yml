@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: localhost   #redis服务器所在ip
+    port: 6379        #redis服务监听端口
+    database: 0       #连接服务器时，访问数据库编号
